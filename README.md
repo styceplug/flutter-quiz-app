@@ -1,16 +1,19 @@
-# quizapp
+**🎮 TriviaBlast | The Ultimate Quiz Experience**
 
-A new Flutter project.
+TriviaBlast is a fun and engaging quiz app designed to test your knowledge across a variety of topics. Whether you’re a trivia enthusiast or just looking to challenge yourself, TriviaBlast offers endless hours of entertainment with quizzes in categories ranging from general knowledge to specialized subjects.
 
-## Getting Started
+**✨ Key Features**
+	•	🧠 Wide Range of Categories – Choose from multiple categories like History, Science, Pop Culture, Sports, and more.
+	•	⚡ Timed Challenges – Test your speed and accuracy with timed quiz rounds.
+	•	🏆 Leaderboards & Achievements – Compete with friends and players globally for the top spot.
+	•	📊 Track Progress – Monitor your performance with detailed stats and progress reports.
+	•	🎉 Daily Trivia – New quizzes added daily to keep things fresh.
+	•	🔔 Push Notifications – Stay updated on new quizzes, challenges, and events.
 
-This project is a starting point for a Flutter application.
+**🛠 Tech Stack**
+	•	Frontend: Flutter
+	•	Backend: Node.js
+	•	Database: PostgreSQL
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Get ready to blast through trivia and challenge your knowledge with TriviaBlast—where every question brings a new adventure!
